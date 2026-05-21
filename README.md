@@ -5,5 +5,3 @@
 # 👋 Hi there
 [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://velog.io/@blue4683)](https://velog.io/@blue4683)
 [![Gmail Badge](https://img.shields.io/badge/an4683@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:an4683@gmail.com)](mailto:an4683@gmail.com)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=blue4683)](https://solved.ac/blue4683)
